@@ -1,2 +1,2 @@
 # Answering_Business_Questions_using_SQL
-Answered business questions using SQL and visualizations
+In this project, we answered business questions using SQL and visualizations. We worked on the Chinook database which is provided as a SQLite database file called `chinook.db` available [here](https://github.com/syed0019/Answering_Business_Questions_using_SQL/blob/master/chinook.db). The [**Chinook**](https://github.com/lerocha/chinook-database) database contains information about a fictional digital music shop - kind of like a mini-iTunes store.
